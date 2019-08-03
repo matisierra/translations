@@ -1942,7 +1942,7 @@ es: {
 	meleeDamage: "Daño cuerpo a cuerpo",
 	more: "Más",
 	multiplier: "Multiplicador",
-	myWeaponsCreatures: "Mis armas y criaturas",
+	myWeaponsCreatures: "Armas de mis criaturas",
 	name: "Nombre",
 	narcoticsNeeded: "Narcoticos necesarios",
 	noMultipliers: "El {0} no tiene multiplicadores por tiros a la cabeza u otras áreas.",
